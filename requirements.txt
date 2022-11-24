@@ -1,0 +1,14 @@
+keras
+tensorflow
+Flask
+Flask-Cors
+numpy
+gunicorn
+
+
+
+
+
+
+
+
